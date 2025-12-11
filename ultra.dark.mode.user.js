@@ -1,14 +1,13 @@
 // ==UserScript==
-// @name         Ultra Dark Mode (Safari Compatible)
-// @namespace    better-darkmode
+// @name         Ultra Dark Mode (Safari Safe)
+// @namespace    https://example.com
 // @version      3.0
-// @description  Universal premium dark mode layer with Safari support, stable on all websites.
+// @description  Universal dark mode layer compatible with Safari
 // @author       ali
 // @match        *://*/*
 // @run-at       document-start
 // @grant        GM_setValue
 // @grant        GM_getValue
-// @grant        GM_addStyle
 // ==/UserScript==
 
 (function() {
